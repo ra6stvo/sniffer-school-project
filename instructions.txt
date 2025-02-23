@@ -61,3 +61,17 @@
 
 	sudo ./sniffer
 
+
+Также для запуска и написания можно создать виртуальную среду, которая будет удобна для работы с языком C (Например использовать virtualbox и создать в нем машину, работающую на операционной системе Ubuntu с графическим интерфейсом)
+
+На операционной системе Windows удобно писать код в текстовом редакторе Notepad++ или же Microsoft Visual Studio Code
+
+
+Ресурсы, которые могут пригодиться:
+1. Homebrew установка: https://brew.sh
+2. Cygwin установка: https://www.cygwin.com/install.html
+3. WSL инструкция по установке: https://learn.microsoft.com/ru-ru/windows/wsl/install#install-wsl-command
+4. VirtualBox установка: https://www.virtualbox.org
+5. Ubuntu Desktop (образ Ubuntu c графическим интерфейсом) установка: https://ubuntu.com/download/desktop 
+6. Notepad++ установка: https://notepad-plus-plus.org/downloads/
+7. Visual Studio Code установка: https://code.visualstudio.com/download
