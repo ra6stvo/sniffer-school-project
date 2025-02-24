@@ -161,7 +161,7 @@ void packet_handler(u_char *args, const struct pcap_pkthdr *header, const u_char
     process_packet(header, packet);
 }
 
-void list_interfaces() {
+void list_interfaces() { // Функция вывода доступных к прослушке интерфейсов
     pcap_if_t *alldevs;
     pcap_if_t *device;
     char errbuf[PCAP_ERRBUF_SIZE];
